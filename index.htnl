@@ -1,1 +1,16 @@
-<script async defer src="https://console.thecloud.chat/js/widget/dvb64mr1vpjnfulj/full.js"></script>
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>אתר הניסוי שלי</title>
+</head>
+<body>
+
+    <h1>ברוכים הבאים לאתר הניסיוני שלי!</h1>
+    <p>אם הכל עובד, בועת הצ'אט של קלאוד צ'ט תופיע כאן בצד תוך מספר שניות.</p>
+
+    <!-- קוד הווידג'ט של קלאוד צ'ט -->
+    <script async defer src="https://console.thecloud.chat/js/widget/dvb64mr1vpjnfulj/full.js"></script>
+
+</body>
+</html>
